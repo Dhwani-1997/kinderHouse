@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kinderHouse/static/css/main.4fa0a652.css",
-    "main.js": "/kinderHouse/static/js/main.b5b503fd.js",
+    "main.js": "/kinderHouse/static/js/main.2101b706.js",
     "static/js/787.11a74736.chunk.js": "/kinderHouse/static/js/787.11a74736.chunk.js",
     "static/media/building-tower.jpg": "/kinderHouse/static/media/building-tower.48445af71326032e4126.jpg",
     "static/media/main-xs-1.jpg": "/kinderHouse/static/media/main-xs-1.95f19135374ecd7ccf2e.jpg",
@@ -33,11 +33,11 @@
     "static/media/8.jpg": "/kinderHouse/static/media/8.6bf441a8251eb4f0ea37.jpg",
     "index.html": "/kinderHouse/index.html",
     "main.4fa0a652.css.map": "/kinderHouse/static/css/main.4fa0a652.css.map",
-    "main.b5b503fd.js.map": "/kinderHouse/static/js/main.b5b503fd.js.map",
+    "main.2101b706.js.map": "/kinderHouse/static/js/main.2101b706.js.map",
     "787.11a74736.chunk.js.map": "/kinderHouse/static/js/787.11a74736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fa0a652.css",
-    "static/js/main.b5b503fd.js"
+    "static/js/main.2101b706.js"
   ]
 }

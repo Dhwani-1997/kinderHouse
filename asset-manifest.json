@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/kinderHouse/static/css/main.4fa0a652.css",
+    "main.js": "/kinderHouse/static/js/main.744bc78a.js",
+    "static/js/787.11a74736.chunk.js": "/kinderHouse/static/js/787.11a74736.chunk.js",
+    "static/media/building-tower.jpg": "/kinderHouse/static/media/building-tower.48445af71326032e4126.jpg",
+    "static/media/main-xs-1.jpg": "/kinderHouse/static/media/main-xs-1.95f19135374ecd7ccf2e.jpg",
+    "static/media/main-3.jpg": "/kinderHouse/static/media/main-3.1301046b6740c5b4bc66.jpg",
+    "static/media/6.jpg": "/kinderHouse/static/media/6.adcd60f9116a4beb37e9.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/kinderHouse/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/7.jpg": "/kinderHouse/static/media/7.b99c9941902943e0e5cd.jpg",
+    "static/media/1.jpg": "/kinderHouse/static/media/1.8969f0f49834d9d44f40.jpg",
+    "static/media/10.jpg": "/kinderHouse/static/media/10.fa2ed4b1c17779f90bc7.jpg",
+    "static/media/gallery-2.jpg": "/kinderHouse/static/media/gallery-2.fa2ed4b1c17779f90bc7.jpg",
+    "static/media/12.jpg": "/kinderHouse/static/media/12.b29f240f54a8ed991233.jpg",
+    "static/media/3.jpg": "/kinderHouse/static/media/3.b5b8c4705f577e6a8c30.jpg",
+    "static/media/about-4.jpg": "/kinderHouse/static/media/about-4.5ffda25956ff2bc7c4d4.jpg",
+    "static/media/5.jpg": "/kinderHouse/static/media/5.b297ecaad01898827c7a.jpg",
+    "static/media/about-2.jpg": "/kinderHouse/static/media/about-2.c629a333031f34cd20e3.jpg",
+    "static/media/fontawesome-webfont.eot": "/kinderHouse/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/kinderHouse/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/about-3.jpg": "/kinderHouse/static/media/about-3.8952c495d48edd1ab36a.jpg",
+    "static/media/teacher-2.png": "/kinderHouse/static/media/teacher-2.eebbfb132ddd84108e53.png",
+    "static/media/teacher-1.png": "/kinderHouse/static/media/teacher-1.0754e3812e6d610dcd86.png",
+    "static/media/page-title.jpg": "/kinderHouse/static/media/page-title.1921d01e7b5431edd943.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/kinderHouse/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/teacher-3.png": "/kinderHouse/static/media/teacher-3.dd8e10070c4da0595108.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/kinderHouse/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/2.jpg": "/kinderHouse/static/media/2.e442509c0ebbe23741d3.jpg",
+    "static/media/4.jpg": "/kinderHouse/static/media/4.f83c1ce7cfc53860761a.jpg",
+    "static/media/11.jpg": "/kinderHouse/static/media/11.24ff4c95969580b0ee6b.jpg",
+    "static/media/9.jpg": "/kinderHouse/static/media/9.5967fb6ca1e1e15fb439.jpg",
+    "static/media/8.jpg": "/kinderHouse/static/media/8.6bf441a8251eb4f0ea37.jpg",
+    "index.html": "/kinderHouse/index.html",
+    "main.4fa0a652.css.map": "/kinderHouse/static/css/main.4fa0a652.css.map",
+    "main.744bc78a.js.map": "/kinderHouse/static/js/main.744bc78a.js.map",
+    "787.11a74736.chunk.js.map": "/kinderHouse/static/js/787.11a74736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa0a652.css",
+    "static/js/main.744bc78a.js"
+  ]
+}
